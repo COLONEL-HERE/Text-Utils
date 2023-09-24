@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text{
+    @apply p-2.5 w-2/3 mx-72 mt-8 text-lg text-gray-900 bg-gray-50 rounded-lg border border-blue-300 focus:border-blue-500
+}
+
+.btn-uppercase{
+    @apply bg-blue-600 rounded-lg px-2 py-2 mt-9 ml-72 text-white 
+}
+
+.btn-TitleCase{
+    @apply bg-purple-700 rounded-lg px-2 py-2 mt-9 ml-6 text-white 
+}
+
+.btn-lowercase{
+    @apply bg-green-600 rounded-lg px-2 py-2 mt-9 ml-6 text-white
+}
+
+.btn-clr{
+    @apply bg-red-600 rounded-lg px-2 py-2 mt-9 ml-6 text-white tracking-wide
+}
+
+.btn-copy{
+    @apply bg-black rounded-lg px-2 py-2 mt-9 ml-6 text-white
+}
+
+.btn-extraSpace{
+    @apply bg-yellow-500 rounded-lg px-2 py-2 mt-9 ml-6 text-black
+}
