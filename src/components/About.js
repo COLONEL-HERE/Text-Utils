@@ -4,10 +4,10 @@ export default function About() {
   return (
     <>
     <div className='text-4xl ml-60 mr-36 mt-10 font-bold'>
-      Introducing Text-Utils : Your Ultimate Text Manipulation Companion
+      Introducing Text-Utils 🚀 : Your Ultimate Text Manipulation Companion
     </div>
 
-    t5r<div className='leading-6'>
+    <div className='leading-6'>
       
       <div className='mx-60 justify-start my-7 '>
         &nbsp;&nbsp;&nbsp;&nbsp; Are you tired of dealing with messy text formatting, whether it's removing extra spaces, converting to uppercase, lowercase <br/> titlecase? Look no further! Text-Utils is your go-to online utility for effortlessly transforming and fine-tuning your text with just a few clicks.
@@ -15,9 +15,8 @@ export default function About() {
 
       <div className='mx-60 '>
             <div className='text-2xl font-semibold my-4'>
-            Key Features:
+            💡 Key Features:
             </div>
-
 
             <div>
             1. Text Transformation Made Simple: With TextTransform.io, you can easily modify your text to suit your needs. Whether it's converting text to uppercase for emphasis, turning it into lowercase for a more casual tone, or capitalizing the first letter of each word in titlecase, we've got you covered. Just input your text, choose the transformation you want, and watch your text change instantly. <br /> <br />
@@ -32,7 +31,7 @@ export default function About() {
             </div>
 
             <div className='text-2xl font-semibold my-4'>            
-              Why Choose Text-Utils :
+            ❓ Why Choose Text-Utils :
             </div>
 
             <span className='font-semibold mr-2'>Efficiency :</span> Save valuable time by streamlining your text transformations in one convenient place. 
